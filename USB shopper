@@ -1,0 +1,11 @@
+int main() {
+
+    int money = 50;
+	  int cost = 6;
+
+	  int canAfford = money / cost;
+	  int remaining = 50 % 6;
+
+	  cout << "she can afford: "<< canAfford << " usb sticks and have: "<< remaining << " remaining money left";
+    
+    }
