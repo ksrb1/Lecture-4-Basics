@@ -1,0 +1,8 @@
+int main() {
+
+	  int firstValue = 8;
+	  int secondValue = 10;
+	  int sumValue = firstValue + secondValue;
+
+	  cout << sumValue;	  
+}
